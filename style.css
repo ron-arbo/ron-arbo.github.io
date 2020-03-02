@@ -1,0 +1,20 @@
+#p1 {
+    border: 3px solid blue;
+    width: 49%;
+    border-radius: 25px;
+    float: left;
+    height: 300px;
+
+}
+
+#p2 {
+    border: 3px solid red;
+    width: 49%;
+    border-radius: 25px;
+    float: right;
+    height: 300px;
+}
+
+#name {
+    float: center;
+}
