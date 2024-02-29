@@ -841,15 +841,15 @@ main {
 
 
 /**
- * skills 
+ * projects 
  */
 
-.skills-title { margin-bottom: 20px; }
+.projects-title { margin-bottom: 20px; }
 
-.skills-list { padding: 20px; }
+.projects-list { padding: 20px; }
 
 
-.skills-item:not(:last-child) { margin-bottom: 15px; }
+.projects-item:not(:last-child) { margin-bottom: 15px; }
 
 .skill .title-wrapper {
   display: flex;
@@ -1508,7 +1508,7 @@ textarea.form-input::-webkit-resizer { display: none; }
     left: -43px;
   }
 
-  .skills-item:not(:last-child) { margin-bottom: 25px; }
+  .projects-item:not(:last-child) { margin-bottom: 25px; }
 
 
 
